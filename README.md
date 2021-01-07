@@ -1,4 +1,4 @@
-# weather-app
+# The weather-application
 
 #Overview
 
@@ -9,3 +9,4 @@ the project built usig a various set of technologies such as javascript and node
 The project uses Node and Express environemnts. Nthey both should be installed on the local machine. 
 The project file server.js should require express(), and should create an instance of their app using express.
 The Express app instance should be pointed to the project folder with .html, .css, and .js files.
+the app is not hosted yet but it will be hosted soon.
